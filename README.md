@@ -33,7 +33,7 @@ Requirements
 Basic Syntax
 python packetsniff.py <interface> 
 
-Examples 
+
 # Linux (requires sudo)
 sudo python packetsniff.py eth0
 
