@@ -1,6 +1,6 @@
 # Simple-TCP-IP-PacketSniffer-Tool
 a lightweight network traffic monitoring tool built with Python and Scapy. It captures TCP packets on a specified network interface in real-time, logging connection details to both console and a timestamped log file.
-Features
+# Features
 
     Real-time TCP packet capture - Monitors live network traffic on any available interface
 
@@ -12,7 +12,7 @@ Features
 
     Cross-platform - Works on Linux, macOS, and Windows (with appropriate permissions)
 
-Use Cases
+# Use Cases
 
     Network troubleshooting and debugging
 
@@ -22,7 +22,7 @@ Use Cases
 
     Educational purposes for learning TCP/IP protocols
 
-Requirements
+# Requirements
 
     Python 3.x
 
@@ -32,7 +32,7 @@ Requirements
 
 
 
-Basic Syntax
+# Basic Syntax
 python packetsniff.py <interface>
 
 # Linux (requires sudo)
