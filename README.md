@@ -21,3 +21,11 @@ Use Cases
     Security monitoring and analysis
 
     Educational purposes for learning TCP/IP protocols
+
+Requirements
+
+    Python 3.x
+
+    Scapy library (pip install scapy)
+
+    Administrative/root privileges (required for packet capture)
