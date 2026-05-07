@@ -30,8 +30,15 @@ Requirements
 
     Administrative/root privileges (required for packet capture)
 
+
+Command Line Usage
 Basic Syntax
-python packetsniff.py <interface> 
+
+
+python packetsniff.py <interface>
+
+Examples
+Basic capture on a specific interface
 
 
 # Linux (requires sudo)
