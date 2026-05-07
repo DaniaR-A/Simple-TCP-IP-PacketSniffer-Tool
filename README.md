@@ -29,3 +29,16 @@ Requirements
     Scapy library (pip install scapy)
 
     Administrative/root privileges (required for packet capture)
+
+Basic Syntax
+python packetsniff.py <interface> 
+
+Examples 
+# Linux (requires sudo)
+sudo python packetsniff.py eth0
+
+# macOS
+sudo python packetsniff.py en0
+
+# Windows (as Administrator)
+python packetsniff.py "Ethernet"
